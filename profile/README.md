@@ -1,3 +1,3 @@
-## intend.ai
+## entends
 
 coming soon.
