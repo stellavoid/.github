@@ -1,5 +1,3 @@
-## [entendr.][entendr]
+### stellavoids
 
-coming soon.
-
-[entendr]: https://entendr.life
+... (unknown voids)
